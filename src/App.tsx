@@ -1,3 +1,4 @@
+// test branch
 import React, { useState } from 'react';
 import { Menu, X, Phone, MapPin, Instagram, Cat as Catalog, Home, ShoppingCart, Mail, Star } from 'lucide-react';
 import { phoneNums } from './datas/homePage';
@@ -76,7 +77,7 @@ const App: React.FC = () => {
             <h2 className="text-4xl font-bold text-stone-900 mb-4">کارت ویزیت فروشگاه</h2>
             <p className="text-xl text-stone-600">اطلاعات تماس و آدرس فروشگاه</p>
           </div>
-          
+            
           <div className="bg-gradient-to-br from-stone-800 to-stone-900 rounded-2xl p-8 md:p-12 text-white shadow-2xl">
             <div className="flex justify-center items-center items-center">
               <div>
